@@ -10,7 +10,7 @@
 "CUSTOM_FONTS_MENU_TITLE" = "\nPick a font";
 "CUSTOM_FONTS_TUT_ALERT_MESSAGE" = "No custom fonts found. Install fonts using the iFont app from the App Store.";
 
-"OK_BUTTON_TITLE" = "Ok";
+"OK_BUTTON_TITLE" = "OK";
 "YES_BUTTON_TITLE" = "Yes";
 "NO_BUTTON_TITLE" = "No";
 "CONFIRM_ALERT_MESSAGE" = "Are you sure?";
